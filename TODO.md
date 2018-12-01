@@ -20,9 +20,13 @@ entire trading stack, from market connectivity to core infra to trade logic to G
 
 race condition, a deadlock waiting to happen, or a potential buffer overflow
 
-
+!!!!
 https://www.geeksforgeeks.org/c-plus-plus/
+!!!!
 
+https://isocpp.org/faq
+
+https://www.tutorialcup.com/cplusplus-interview-questions
 
 https://encelo.github.io/notes.html
 
