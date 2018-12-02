@@ -52,6 +52,12 @@ TODO: design patterns
 
 - templates
 
+- MVP
+
+- virtual process space
+
+- process system features
+
 
 #8) Finance things -
 
