@@ -4,34 +4,36 @@ TODO: effective modern c++
 
 TODO: professional c++
 
+#2) leetcode.com
+TODO: https://leetcode.com/problemset/top-100-liked-questions/
 
-#2) https://practice.geeksforgeeks.org/tracks/CPP/
+#3) https://practice.geeksforgeeks.org/tracks/CPP/
 
 DONE: tried some tasks, practice looks like not the best option
 
 TODO: check topics to be prepared (theory)
 
 
-#3) https://www.tutorialcup.com/cplusplus-interview-questions
+#4) https://www.tutorialcup.com/cplusplus-interview-questions
 
 TODO: decent list of C++ interview questions
 
 
-#4) https://isocpp.org
+#5) https://isocpp.org
 
 TODO: https://isocpp.org/faq ; decent FAQ; go trough
 
 TODO: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines ; nice guidelines; useful in daily work
 
 
-#5) https://encelo.github.io/notes.html
+#6) https://encelo.github.io/notes.html
 
 TODO: go trough list of topics & learn
 
 TODO: design patterns
 
 
-#6) Topics to cover :
+#7) Topics to cover :
 - void* + dynamic cast
 
 - order of initialisation
@@ -51,7 +53,7 @@ TODO: design patterns
 - templates
 
 
-#7) Finance things -
+#8) Finance things -
 
 - read about entire trading stack, from market connectivity to core infra to trade logic to GUIs to post-trade analytics and tools.
 
