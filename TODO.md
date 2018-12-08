@@ -32,8 +32,13 @@ TODO: go trough list of topics & learn
 
 TODO: design patterns
 
+#7) Code/ practice questions
+Cpp11 features
+Move/Templates/5 special funcs/example class code from scratch
+multithreading / stream questions
 
-#7) Topics to cover :
+
+#8) Topics to cover :
 - void* + dynamic cast
 
 - order of initialisation
@@ -59,7 +64,7 @@ TODO: design patterns
 - process system features
 
 
-#8) Finance things -
+#9) Finance things -
 
 - read about entire trading stack, from market connectivity to core infra to trade logic to GUIs to post-trade analytics and tools.
 
