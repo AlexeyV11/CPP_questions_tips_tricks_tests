@@ -33,8 +33,11 @@ TODO: go trough list of topics & learn
 TODO: design patterns
 
 #7) Code/ practice questions
+
 Cpp11 features
+
 Move/Templates/5 special funcs/example class code from scratch
+
 multithreading / stream questions
 
 
