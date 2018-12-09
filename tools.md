@@ -1,14 +1,19 @@
 # dynamic analysis
 - valgrind
 
-# profilins
-- valgrind, gprof, gperftools 
+# profilers
+- valgrind
+- gprof
+- gperftools 
 
 # static analysis
-- cppcheck, clang-tidy/static-analyzer
+- cppcheck
+- clang-tidy/static-analyzer
 
 # unit tests
-- catch, gtest
+- catch
+- gtest
 
 # ide
-microsoft studio code / CLion
+- Microsoft Studio Code 
+- CLion
