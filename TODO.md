@@ -40,8 +40,38 @@ Move/Templates/5 special funcs/example class code from scratch
 
 multithreading / stream questions
 
+#8) Patterns/Multithreading standart issues -
 
-#8) Topics to cover :
+- patterns
+
+https://en.wikipedia.org/wiki/Factory_method_pattern
+
+https://en.wikipedia.org/wiki/Abstract_factory_pattern
+
+https://en.wikipedia.org/wiki/Builder_pattern
+
+https://en.wikipedia.org/wiki/Object_pool_pattern
+
+https://en.wikipedia.org/wiki/Thread_pool
+
+https://en.wikipedia.org/wiki/Flyweight_pattern
+
+https://stackoverflow.com/questions/17712001/how-is-meyers-implementation-of-a-singleton-actually-a-singleton ( Meyer's Singleton)
+
+- Multithreading issues
+
+Critical section, mutex, semaphore, 
+
+Producer-consumer problem (https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem), 
+
+Dining philosophers problem (https://en.wikipedia.org/wiki/Dining_philosophers_problem), 
+
+Priority inversion (https://en.wikipedia.org/wiki/Priority_inversion), 
+
+race condition
+
+
+#9) Topics to cover :
 - void* + dynamic cast
 
 - order of initialisation
@@ -67,7 +97,7 @@ multithreading / stream questions
 - process system features
 
 
-#9) Finance things -
+#10) Finance things -
 
 - read about entire trading stack, from market connectivity to core infra to trade logic to GUIs to post-trade analytics and tools.
 
