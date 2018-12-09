@@ -60,7 +60,7 @@ https://stackoverflow.com/questions/17712001/how-is-meyers-implementation-of-a-s
 
 - Multithreading issues
 
-Critical section, mutex, semaphore, 
+Critical section, mutex, semaphore, atomics
 
 Producer-consumer problem (https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem), 
 
